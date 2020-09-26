@@ -4,7 +4,7 @@ h1 { color:green; }
 
 body {font-family: Arial, Helvetica, sans-serif;}
 
-#images{
+.images{
     border: solid;
     border-width: 10px;
     border-color: green;
